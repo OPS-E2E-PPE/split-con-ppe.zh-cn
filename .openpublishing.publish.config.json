@@ -1,23 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "split-con-ppe",
-      "build_source_folder": "split",
-      "build_output_subfolder": "split-ppe",
-      "locale": "zh-cn",
-      "monikers": [],
-      "moniker_ranges": [],
-      "enable_xrefmap_share": true,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [
     "live-sxs",
